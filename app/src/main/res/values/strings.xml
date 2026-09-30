@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pizzaria do Zé</string>
+    <string name="welcome_message">Pizzas artesanais, feitas com ingredientes selecionados e muito sabor!</string>
+    <string name="view_menu">Ver Cardápio</string>
+    <string name="menu_title">Cardápio</string>
+</resources>
